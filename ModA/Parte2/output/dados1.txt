@@ -1,0 +1,101 @@
+Jogo de Dados (20 Jogadas)
+
+Jogada 1:
+Jogador A lançou [2, 4] (Soma: 6)
+Jogador B lançou [3, 2] (Soma: 5)
+
+Jogada 2:
+Jogador A lançou [1, 1] (Soma: 2)
+Jogador A conseguiu par. Joga novamente.
+Jogador A lançou [4, 6] (Soma: 10)
+Jogador B lançou [2, 3] (Soma: 5)
+
+Jogada 3:
+Jogador A lançou [4, 1] (Soma: 5)
+Jogador B lançou [5, 4] (Soma: 9)
+
+Jogada 4:
+Jogador A lançou [1, 4] (Soma: 5)
+Jogador B lançou [4, 1] (Soma: 5)
+
+Jogada 5:
+Jogador A lançou [4, 6] (Soma: 10)
+Jogador B lançou [6, 3] (Soma: 9)
+
+Jogada 6:
+Jogador A lançou [1, 5] (Soma: 6)
+Jogador B lançou [5, 6] (Soma: 11)
+
+Jogada 7:
+Jogador A lançou [2, 4] (Soma: 6)
+Jogador B lançou [2, 5] (Soma: 7)
+
+Jogada 8:
+Jogador A lançou [4, 2] (Soma: 6)
+Jogador B lançou [6, 1] (Soma: 7)
+
+Jogada 9:
+Jogador A lançou [5, 2] (Soma: 7)
+Jogador B lançou [4, 6] (Soma: 10)
+
+Jogada 10:
+Jogador A lançou [1, 4] (Soma: 5)
+Jogador B lançou [5, 5] (Soma: 10)
+Jogador B conseguiu par. Joga novamente.
+Jogador B lançou [5, 5] (Soma: 10)
+Jogador B conseguiu par. Joga novamente.
+Jogador B lançou [3, 6] (Soma: 9)
+
+Jogada 11:
+Jogador A lançou [1, 3] (Soma: 4)
+Jogador B lançou [3, 2] (Soma: 5)
+
+Jogada 12:
+Jogador A lançou [5, 5] (Soma: 10)
+Jogador A conseguiu par. Joga novamente.
+Jogador A lançou [6, 3] (Soma: 9)
+Jogador B lançou [6, 6] (Soma: 12)
+Jogador B conseguiu par. Joga novamente.
+Jogador B lançou [3, 1] (Soma: 4)
+
+Jogada 13:
+Jogador A lançou [4, 5] (Soma: 9)
+Jogador B lançou [2, 4] (Soma: 6)
+
+Jogada 14:
+Jogador A lançou [4, 3] (Soma: 7)
+Jogador B lançou [1, 5] (Soma: 6)
+
+Jogada 15:
+Jogador A lançou [4, 4] (Soma: 8)
+Jogador A conseguiu par. Joga novamente.
+Jogador A lançou [4, 6] (Soma: 10)
+Jogador B lançou [2, 2] (Soma: 4)
+Jogador B conseguiu par. Joga novamente.
+Jogador B lançou [4, 5] (Soma: 9)
+
+Jogada 16:
+Jogador A lançou [5, 3] (Soma: 8)
+Jogador B lançou [4, 3] (Soma: 7)
+
+Jogada 17:
+Jogador A lançou [4, 1] (Soma: 5)
+Jogador B lançou [3, 2] (Soma: 5)
+
+Jogada 18:
+Jogador A lançou [5, 5] (Soma: 10)
+Jogador A conseguiu par. Joga novamente.
+Jogador A lançou [2, 5] (Soma: 7)
+Jogador B lançou [3, 4] (Soma: 7)
+
+Jogada 19:
+Jogador A lançou [4, 6] (Soma: 10)
+Jogador B lançou [4, 2] (Soma: 6)
+
+Jogada 20:
+Jogador A lançou [1, 6] (Soma: 7)
+Jogador B lançou [6, 5] (Soma: 11)
+
+RESULTADO FINAL
+Pontos A: 172 | Pontos B: 179
+Vencedor: Jogador B

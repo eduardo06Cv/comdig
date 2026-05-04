@@ -1,0 +1,11 @@
+1a.
+Os resultados mostram que ficheiros de texto e código têm menor entropia (4.3 a 5.2 bits/símbolo) devido à alta frequência de espaços e caracteres ASCII, o que indica maior redundância. Em contraste, as imagens apresentam entropia elevada (próxima de 8 bits/símbolo), pois a distribuição de símbolos é mais uniforme e a informação própria de cada byte é superior. Ficheiros comprimidos, como .jpg e .gif, exibem os valores de entropia mais altos por possuírem quase nenhuma redundância estatística
+
+2b.
+Com base nos ficheiros de registo, a aplicação simulou corretamente a dinâmica de ambos os jogos através da fonte de símbolos genérica. No jogo de dados, as regras de lançamentos extra por obtenção de pares foram aplicadas, resultando em pontuações finais variáveis entre os jogadores. No EuroMilhões, a geração aleatória de apostas e sorteios demonstrou a elevada dificuldade do jogo, com a maioria das tentativas a resultar em poucos ou nenhuns acertos.
+
+2ci.
+Os critérios baseiam-se na variação do comprimento e na complexidade do alfabeto, onde o nível baixo usa 6 caracteres minúsculos, o médio 8 caracteres alfanuméricos e o alto 12 caracteres incluindo símbolos especiais. Em todos os casos, é aplicada uma probabilidade uniforme a cada símbolo para garantir uma geração aleatória equilibrada.
+
+3b.
+O gráfico mostra que ficheiros com maior entropia são mais difíceis de comprimir, aproximando-se do limite de 8 bits por byte. Já os ficheiros de texto e código situam-se bastante abaixo da linha ideal y = x
