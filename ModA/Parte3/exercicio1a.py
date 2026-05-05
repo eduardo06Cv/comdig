@@ -24,4 +24,3 @@ try:
 
 except FileNotFoundError:
     print(f"Erro: Não encontrei o ficheiro '{nome_ficheiro}'.")
-    print("Dica: Certifica-te que a imagem está na mesma pasta que este script!")

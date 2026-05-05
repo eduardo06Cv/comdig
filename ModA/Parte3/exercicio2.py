@@ -4,7 +4,7 @@ import os
 import matplotlib.pyplot as plt
 from scipy.stats import entropy
 
-imagem_input = 'Images/bird.png' 
+imagem_input = 'Images/tulips.tif' 
 pasta_2a = 'resultados_exercicio2A'
 pasta_2b = 'resultados_exercicio2B'
 coords = (100, 300, 150, 400) 

@@ -43,10 +43,10 @@ def gerar_tabela_pessoas(quantidade, nome_ficheiro):
             print(f"Erro: Ficheiro {caminho} não encontrado.")
             raise Exception()
 
-    nomes_p = ler_ficheiro(r"comdig\ModA\Parte2\Nomes.txt")
-    apelidos = ler_ficheiro(r"comdig\ModA\Parte2\Apelidos.txt")
-    profissoes = ler_ficheiro(r"comdig\ModA\Parte2\Profissoes.txt")
-    localidades = ler_ficheiro(r"comdig\ModA\Parte2\Localidades.txt")
+    nomes_p = ler_ficheiro(r"TextFiles\Nomes.txt")
+    apelidos = ler_ficheiro(r"TextFiles\Apelidos.txt")
+    profissoes = ler_ficheiro(r"TextFiles\Profissoes.txt")
+    localidades = ler_ficheiro(r"TextFiles\Localidades.txt")
    
     with open(nome_ficheiro, 'w', encoding='utf-8') as f:
         f.write("ID,Nome,Localidade,Profissao\n")
